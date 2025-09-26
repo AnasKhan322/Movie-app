@@ -1,4 +1,4 @@
-# 🎬 Movie Fight
+# 🎬 Movie App
 
 Movie Fight is a web application that allows users to **search for two movies** and compare them side by side using data from the [OMDb API](http://www.omdbapi.com/).  
 The app highlights statistics such as **Box Office**, **Awards**, **IMDB Rating**, **Metascore**, and more to determine which movie "wins" in each category.
@@ -33,5 +33,5 @@ Here’s a screenshot of the app in action:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movie-fight.git
-   cd movie-fight
+   git clone https://github.com/AnasKhan322/Movie-app
+   cd Movie-app
