@@ -24,7 +24,7 @@ The app highlights statistics such as **Box Office**, **Awards**, **IMDB Rating*
 ## 📸 Preview
 Here’s a screenshot of the app in action:
 
-![Movie Fight Screenshot](preview.png)
+![Movie Fight Screenshot](Screenshot 2025-09-26 175854.png)
 
 
 ---
